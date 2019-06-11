@@ -16,6 +16,7 @@ The following libraries needs to be installed in order to run the file 'run.py':
 • filterpy <br />
 • cflib <br />
 • transforms3d <br />
+• matplotlib (optional) <br />
 <br />
 
 It is also required to have the Crazyradio PA, a camera and video transmitter connected on-board on the quadcopter itself and a wireless video receiver which will act as the webcam that receives the video feed from the on-board camera. For installation and configuration, referr to 'report.pdf'.
