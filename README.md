@@ -9,20 +9,21 @@ The main program is named 'run.py', but before it can be run, it is required to 
 ### Prerequisites
 
 The following libraries needs to be installed in order to run the file 'run.py':
-• logging
-• numpy
-• OpenCV > version 3.0
-• yaml
-• simple_pid
-• filterpy
-• cflib
+• logging <br />
+• numpy <br />
+• OpenCV > version 3.0 <br />
+• yaml <br />
+• simple_pid <br />
+• filterpy <br />
+• cflib <br />
+• transforms3d <br />
+<br />
 
-It is also required to have the Crazyradio PA, a camera and video transmitter connected on-board on the quadcopter itself and a wireless video receiver which will act as the webcam that receives the video feed from the on-board camera.
+It is also required to have the Crazyradio PA, a camera and video transmitter connected on-board on the quadcopter itself and a wireless video receiver which will act as the webcam that receives the video feed from the on-board camera. For installation and configuration, referr to 'report.pdf'.
 
 ## Bitcraze AB
 
 Please read https://github.com/bitcraze/crazyflie-lib-python for more information about the Python library which allows for communication with the Crazyflie 2.0 thorugh Python.
-
 
 ## Authors
 
