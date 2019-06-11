@@ -8,7 +8,7 @@ The main program is named 'run.py', but before it can be run, it is required to 
 
 ### Prerequisites
 
-The following libraries needs to be installed in order to run the file 'run.py':
+The following libraries needs to be installed in order to run the file 'run.py': <br />
 • logging <br />
 • numpy <br />
 • OpenCV > version 3.0 <br />
